@@ -128,4 +128,4 @@ if ($_GET['proses'] == 'delete') {
         echo "Gagal menghapus data: " . $e->getMessage();
     }
 }
-?>
+?>git 
